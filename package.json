@@ -1,0 +1,23 @@
+{
+  "name": "glasses bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot for adding glasses",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "Ashay Parikh",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "python-shell": "^1.0.7",
+    "request": "^2.88.0",
+    "twit": "^2.2.11"
+  }
+}
