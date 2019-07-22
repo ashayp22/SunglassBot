@@ -24,7 +24,7 @@ setInterval(checkHashtag, 1000*60*0.5*1);
 
 function checkHashtag() {
   var params = {
-    q: "#twitterfacebot since:2019-7-1",
+    q: "#twittersunglassbot since:2019-7-1",
     count: 1
   }
 
